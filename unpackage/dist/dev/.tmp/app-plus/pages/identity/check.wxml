@@ -1,0 +1,1 @@
+<view class="container"><view class="content"><tui-tips vue-id="1" fixed="{{false}}" imgUrl="/static/imgs/check.png" bind:__l="__l" vue-slots="{{['default']}}"><view class="title">证件已成功提交</view><view class="sub-title">我们将会在2个工作日内完成您的身份审核，请您耐心等待！</view></tui-tips></view></view>

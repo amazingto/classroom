@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/login/forget",
+    "pages/login/register",
+    "pages/course/detail",
+    "pages/major/major",
+    "pages/course/finishlist",
+    "pages/course/FinishDetail",
+    "pages/course/list",
+    "pages/questions/test",
+    "pages/questions/exam",
+    "pages/identity/check",
+    "pages/identity/verification"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "南平农校",
+  "compilerVersion": "2.4.2",
+  "usingComponents": {}
+}

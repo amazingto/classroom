@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "课程列表",
+  "enablePullDownRefresh": true,
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "graphiclist": "/pages/component/graphic-list",
+    "speciality-modal": "/pages/component/speciality-modal",
+    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control",
+    "tui-loadmore": "/components/loadmore/loadmore",
+    "tui-nomore": "/components/nomore/nomore"
+  }
+}

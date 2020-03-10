@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "完成课程详情",
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "unik-modal": "/pages/component/unik-modal"
+  }
+}

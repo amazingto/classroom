@@ -1,0 +1,136 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		// {
+		// 	"path": "pages/index/index",
+		// 	"style": {
+		// 		"navigationBarTitleText": "uni-app"
+		// 	}
+		// },
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/login/forget",
+			"style": {
+				"navigationBarTitleText": "忘记密码"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/course/detail",
+			"style": {
+				"navigationBarTitleText": "课程详情",
+				"app-plus": {
+					//滚动条隐藏
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/major/major",
+			"style": {
+				"navigationBarTitleText": "专业列表",
+				"enablePullDownRefresh": true,
+				"app-plus": {
+					//滚动条隐藏
+					"scrollIndicator": "none",
+					"titleNView":{
+						"autoBackButton": "false"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/course/finishlist",
+			"style": {
+				"navigationBarTitleText": "完成课程",
+				"app-plus": {
+					//滚动条隐藏
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/course/FinishDetail",
+			"style": {
+				"navigationBarTitleText": "完成课程详情",
+				"app-plus": {
+					//滚动条隐藏
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/course/list",
+			"style": {
+				"navigationBarTitleText": "课程列表",
+				"enablePullDownRefresh": true,
+				"app-plus": {
+					//滚动条隐藏
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/questions/test",
+			"style": {
+				"navigationBarTitleText": "课后习题",
+				"app-plus": {
+					//滚动条隐藏
+					"scrollIndicator": "none",
+					"titleNView":{
+						"autoBackButton": "false"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/questions/exam",
+			"style": {
+				"navigationBarTitleText": "考试",
+				"app-plus": {
+					//滚动条隐藏
+					"scrollIndicator": "none",
+					"titleNView":{
+						"autoBackButton": "false"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/identity/check",
+			"style": {
+				"navigationBarTitleText": "审核",
+				"app-plus": {
+					//滚动条隐藏
+					"scrollIndicator": "none",
+					"titleNView":{
+						"autoBackButton": "false"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/identity/verification",
+			"style": {
+				"navigationBarTitleText": "身份验证"
+			}
+		}
+
+
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

@@ -1,0 +1,143 @@
+
+page {
+	background: #f1f1f1;
+}
+.grace-idcard-main {
+	margin: 20rpx 30rpx;
+	background: #f1f1f1;
+}
+.grace-idcard-desc {
+	line-height: 2em;
+	/* background:#FFFFFF; */
+	padding-top: 30rpx;
+	border-radius: 10rpx;
+	text-align: center;
+	font-size: 30rpx;
+}
+.grace-idcard-text {
+	line-height: 2em;
+	margin-top: 30rpx;
+}
+.grace-idcard-items {
+	background: #f1f1f1;
+	padding: 20rpx 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 36rpx 0;
+	border-radius: 10rpx;
+	-webkit-box-align: start;
+	-webkit-align-items: flex-start;
+	    -ms-flex-align: start;
+	        align-items: flex-start;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.grace-idcard-uper-btn {
+	width: 50%;
+	height: 188rpx;
+	margin: 0 30rpx;
+	background: #f1f1f1;
+	/* 	padding-bottom:10upx; */
+	border-radius: 20rpx;
+	border: 6rpx #cdcdcd solid;
+	-webkit-box-shadow: 0rpx, 2rpx, 6rpx, 0rpx, rgba(255, 255, 255, 0.5);
+	        box-shadow: 0rpx, 2rpx, 6rpx, 0rpx, rgba(255, 255, 255, 0.5);
+	text-align: center;
+}
+.grace-idcard-uper-btn .img {
+	width: 100rpx;
+	height: 100rpx;
+	margin: 0 auto;
+	margin-top: 30rpx;
+}
+.grace-idcard-uper-btn .img image {
+	width: 100rpx;
+	height: 100rpx;
+}
+.grace-idcard-uper-btn .text {
+	width: 100%;
+	margin-top: 10rpx;
+	text-align: center;
+	line-height: 2em;
+	font-size: 24rpx;
+}
+.grace-idphoto-items {
+	background: #f1f1f1;
+	padding: 20rpx 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 36rpx 0;
+	border-radius: 10rpx;
+	-webkit-box-align: start;
+	-webkit-align-items: flex-start;
+	    -ms-flex-align: start;
+	        align-items: flex-start;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.grace-idphoto-uper-btn {
+	/* width:276upx; */
+	width: 40%;
+	height: 188rpx;
+	margin: 0 30rpx;
+	background: #f1f1f1;
+	border-radius: 20rpx;
+	border: 6rpx #cdcdcd solid;
+	-webkit-box-shadow: 0rpx, 2rpx, 6rpx, 0rpx, rgba(255, 255, 255, 0.5);
+	        box-shadow: 0rpx, 2rpx, 6rpx, 0rpx, rgba(255, 255, 255, 0.5);
+	text-align: center;
+}
+.grace-idphoto-uper-btn .img {
+	width: 100rpx;
+	height: 100rpx;
+	margin: 0 auto;
+	margin-top: 30rpx;
+}
+.grace-idphoto-uper-btn .img image {
+	width: 100rpx;
+	height: 100rpx;
+}
+.grace-idphoto-uper-btn .text {
+	width: 100%;
+	margin-top: 10rpx;
+	text-align: center;
+	line-height: 2em;
+	font-size: 24rpx;
+}
+.grace-idcard-preview {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 50%;
+	height: 200rpx;
+	margin: 0 30rpx;
+	/* padding-bottom: 10upx; */
+}
+.grace-idcard-preview image {
+	width: 100%;
+	height: 100%;
+}
+.grace-idphoto-preview {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 99px;
+	height: 138px;
+	margin: 0 70rpx;
+	border: 6rpx #cdcdcd solid;
+}
+.grace-idphoto-preview image {
+	width: 100%;
+	height: 100%;
+}
+

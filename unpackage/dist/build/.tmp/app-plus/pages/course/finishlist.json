@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "完成课程",
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "graphiclist": "/pages/component/graphic-list",
+    "speciality-modal": "/pages/component/speciality-modal",
+    "tui-loadmore": "/components/loadmore/loadmore",
+    "tui-nomore": "/components/nomore/nomore"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "专业列表",
+  "enablePullDownRefresh": true,
+  "scrollIndicator": "none",
+  "titleNView": {
+    "autoBackButton": "false"
+  },
+  "usingComponents": {
+    "majorlist": "/pages/component/major-list",
+    "speciality-modal": "/pages/component/speciality-modal",
+    "tui-loadmore": "/components/loadmore/loadmore",
+    "tui-nomore": "/components/nomore/nomore",
+    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control",
+    "tui-fab": "/components/tui-fab/tui-fab",
+    "tui-modal": "/components/modal/modal"
+  }
+}

@@ -1,0 +1,13 @@
+.cu-modal .cu-form-group.data-v-183c54cf {
+  min-height: 95px !important;
+}
+.cu-modal .cu-form-group uni-input.data-v-183c54cf {
+  top: -2px;
+}
+.cu-modal .cu-bar.data-v-183c54cf {
+  min-height: 65px !important;
+}
+.cu-modal .cu-dialog.data-v-183c54cf {
+  height: 45% !important;
+}
+

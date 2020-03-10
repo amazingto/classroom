@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52cbc198-18ae-40ac-ad57-b8b58f0163e8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/component/graphic-list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/component/graphic-list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/component/major-list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/component/major-list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course/detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course/detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/identity/verification.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/identity/verification.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login/register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/common/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/common/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/common/main.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/common/main.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/graphic-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/graphic-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/graphic-list.json" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/graphic-list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/graphic-list.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/graphic-list.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/graphic-list.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/graphic-list.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/major-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/major-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/major-list.json" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/major-list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/major-list.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/major-list.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/major-list.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/major-list.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/speciality-modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/speciality-modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/speciality-modal.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/speciality-modal.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/speciality-modal.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/component/speciality-modal.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/FinishDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/FinishDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/FinishDetail.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/FinishDetail.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/FinishDetail.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/FinishDetail.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/detail.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/detail.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/detail.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/detail.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/finishlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/finishlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/finishlist.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/finishlist.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/list.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/course/list.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/identity/verification.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/identity/verification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/identity/verification.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/identity/verification.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/identity/verification.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/identity/verification.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/forget.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/forget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/forget.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/forget.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/login.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/login.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/login.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/login.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/register.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/login/register.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/major/major.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/major/major.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/major/major.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/major/major.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/course-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/course-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/exam.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/exam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/exam.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/exam.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/exam.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/exam.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/test.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/test.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/test.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/.tmp/app-plus/pages/questions/test.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/course/FinishDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/course/FinishDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/course/detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/course/detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/course/finishlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/course/finishlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/course/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/course/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/identity/verification.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/identity/verification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/login/forget.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/login/forget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/login/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/login/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/major/major.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/major/major.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/questions/exam.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/questions/exam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/questions/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/questions/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/common/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/common/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/common/main.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/common/main.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/common/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/common/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/loadmore/loadmore.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/loadmore/loadmore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/nomore/nomore.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/nomore/nomore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/tips.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/tips.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/uni-segmented-control/uni-segmented-control.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/uni-segmented-control/uni-segmented-control.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/watch-login/watch-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/watch-login/watch-button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/watch-login/watch-input.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/watch-login/watch-input.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/watch-login/watch-input.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/watch-login/watch-input.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/watch-login/watch-input.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/watch-login/watch-input.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/wuc-tab/wuc-tab.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/wuc-tab/wuc-tab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/wuc-tab/wuc-tab.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/wuc-tab/wuc-tab.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/wuc-tab/wuc-tab.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/wuc-tab/wuc-tab.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/xfl-select/xfl-select.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/xfl-select/xfl-select.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/xfl-select/xfl-select.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/xfl-select/xfl-select.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/xfl-select/xfl-select.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/components/xfl-select/xfl-select.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/graphic-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/graphic-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/graphic-list.json" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/graphic-list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/graphic-list.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/graphic-list.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/graphic-list.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/graphic-list.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/major-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/major-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/major-list.json" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/major-list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/major-list.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/major-list.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/major-list.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/major-list.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/speciality-modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/speciality-modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/speciality-modal.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/speciality-modal.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/speciality-modal.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/speciality-modal.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/unik-modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/unik-modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/unik-modal.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/unik-modal.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/unik-modal.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/component/unik-modal.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/FinishDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/FinishDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/FinishDetail.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/FinishDetail.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/FinishDetail.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/FinishDetail.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/detail.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/detail.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/detail.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/detail.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/finishlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/finishlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/finishlist.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/finishlist.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/list.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/course/list.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/identity/check.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/identity/check.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/identity/verification.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/identity/verification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/identity/verification.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/identity/verification.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/identity/verification.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/identity/verification.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/forget.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/forget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/forget.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/forget.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/login.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/login.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/login.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/login.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/register.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/login/register.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/major/major.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/major/major.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/major/major.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/major/major.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/course-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/course-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/exam.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/exam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/exam.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/exam.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/exam.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/exam.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/test.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/test.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/test.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.tmp/app-plus/pages/questions/test.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/course/FinishDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/course/FinishDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/course/detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/course/detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/course/finishlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/course/finishlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/course/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/course/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/identity/verification.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/identity/verification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/login/forget.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/login/forget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/login/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/login/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/major/major.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/major/major.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/questions/exam.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/questions/exam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/questions/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/pages/questions/test.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="13" />
+    <option name="y" value="26" />
+    <option name="width" value="1233" />
+    <option name="height" value="715" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52cbc198-18ae-40ac-ad57-b8b58f0163e8" name="Default" comment="" />
+      <created>1567504913423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567504913423</updated>
+      <workItem from="1567504918754" duration="56000" />
+      <workItem from="1568881572266" duration="172000" />
+      <workItem from="1569220464935" duration="88000" />
+      <workItem from="1571122911120" duration="30000" />
+      <workItem from="1571122961485" duration="17000" />
+      <workItem from="1571123740360" duration="52000" />
+      <workItem from="1571123798022" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="432000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="13" y="26" width="1233" height="715" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24979724" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979724" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

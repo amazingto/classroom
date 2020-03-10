@@ -1,0 +1,2 @@
+setCssToHead(["body { width: 100%; height: 100%; }\nwx-uni-page-body { height: 100%; width: 100%; }\n.",[1],"container { height: 100%; overflow: hidden; width: 100%; }\n.",[1],"container .",[1],"my-segmented { height: 5%; width: 100%; padding-top: ",[0,15],"; max-height: 38px; }\n.",[1],"container .",[1],"uni-list { height: 95%; width: 100%; overflow-y: auto; margin-top: ",[0,20],"; }\n",],undefined,{path:"./pages/course/list.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/course/list.wxml') } }));

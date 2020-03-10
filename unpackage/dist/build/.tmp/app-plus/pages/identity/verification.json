@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "身份验证",
+  "usingComponents": {
+    "unik-modal": "/pages/component/unik-modal"
+  }
+}

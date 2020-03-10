@@ -1,0 +1,330 @@
+uni-page-body.data-v-b4490b80 {
+  height: 100%;
+  width: 100%;
+}
+.container.data-v-b4490b80 {
+  height: 100%;
+  width: 100%;
+  /*tabbar start*/
+  /*tabbar end*/
+}
+.container .video-container.data-v-b4490b80 {
+  height: 230px;
+  width: 100%;
+}
+.container .video-container .myVideo.data-v-b4490b80 {
+  height: 100%;
+  width: 100%;
+}
+.container.data-v-b4490b80 ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+.container .tab-view.data-v-b4490b80::before {
+  content: '';
+  position: absolute;
+  border-bottom: 1rpx solid #eaeef1;
+  -webkit-transform: scaleY(0.5);
+  -ms-transform: scaleY(0.5);
+      transform: scaleY(0.5);
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+.container .tab-view.data-v-b4490b80 {
+  width: 100%;
+  height: 100rpx;
+  overflow: hidden;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 99;
+  background: #fff;
+  white-space: nowrap;
+}
+.container .tab-bar-item.data-v-b4490b80 {
+  width: 43%;
+  padding: 0;
+  height: 100rpx;
+  min-width: 80rpx;
+  line-height: 100rpx;
+  margin: 0 4%;
+  display: inline-block;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.container .tab-bar-title.data-v-b4490b80 {
+  height: 100rpx;
+  line-height: 100rpx;
+  font-size: 32rpx;
+  color: #999;
+  font-weight: 400;
+}
+.container .active.data-v-b4490b80 {
+  border-bottom: 6rpx solid #5677fc;
+}
+.container .active .tab-bar-title.data-v-b4490b80 {
+  color: #5677fc !important;
+  font-size: 36rpx;
+  font-weight: bold;
+}
+.container .scoll-y.data-v-b4490b80 {
+  height: 100%;
+}
+.container .list-view.data-v-b4490b80 {
+  margin-bottom: 100rpx;
+  width: 100%;
+  background: #fff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.container .list-cell.data-v-b4490b80 {
+  padding: 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.container .cell-title-box.data-v-b4490b80 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.container .cell-title.data-v-b4490b80 {
+  font-size: 32rpx;
+  line-height: 56rpx;
+  word-break: break-all;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  /* padding-bottom: 30upx; */
+}
+.container .img-container.data-v-b4490b80 {
+  width: 100%;
+  padding-top: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 160rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.container .cell-img.data-v-b4490b80 {
+  width: 32%;
+  overflow: hidden;
+  position: relative;
+}
+.container .img.data-v-b4490b80 {
+  width: 100%;
+  height: 160rpx;
+  display: block;
+  /* position: absolute;
+			  left: 50%;
+			  top:50%;
+			  transform: translate(-50%,-50%);
+			*/
+  border-radius: 4rpx;
+}
+.container .sub-title.data-v-b4490b80 {
+  padding-top: 24rpx;
+  font-size: 28rpx;
+  color: #bcbcbc;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.container .badge.data-v-b4490b80 {
+  padding: 5rpx 10rpx;
+  font-size: 24rpx;
+  border-radius: 4rpx;
+  margin-right: 20rpx;
+}
+.container .b-red.data-v-b4490b80 {
+  background: #fcebef;
+  color: #8a5966;
+}
+.container .b-blue.data-v-b4490b80 {
+  background: #ecf6fd;
+  color: #4dabeb;
+}
+.container .b-orange.data-v-b4490b80 {
+  background: #fef5eb;
+  color: #faa851;
+}
+.container .b-green.data-v-b4490b80 {
+  background: #e8f6e8;
+  color: #44cf85;
+}
+.container .card.data-v-b4490b80 {
+  width: 100%;
+  background: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-content: center;
+      -ms-flex-line-pack: center;
+          align-content: center;
+  overflow: hidden;
+  border-bottom: 6px #f5f5f5 solid;
+}
+.container .card .card-header.data-v-b4490b80 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  line-height: 40rpx;
+  font-size: 32rpx;
+  color: #000000;
+  padding: 34rpx 24rpx;
+}
+.container .card .card-content.data-v-b4490b80 {
+  line-height: 34rpx;
+  font-size: 28rpx;
+  color: #8f8f94;
+  padding-left: 24rpx;
+  padding-bottom: 18rpx;
+}
+.container .imagetext.data-v-b4490b80 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  height: 700rpx;
+  background: #999999;
+}
+.container .title-box.data-v-b4490b80 {
+  width: 80%;
+  height: 60rpx;
+  font-size: 40rpx;
+  color: #ffffff;
+  padding-top: 40rpx;
+  text-align: center;
+}
+.container .image-box.data-v-b4490b80 {
+  width: 80%;
+  height: 850rpx;
+  margin-top: 40rpx;
+  margin-bottom: -100rpx;
+  background: #ffffff;
+  border: 2px #ffffff solid;
+  -webkit-box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.5);
+          box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.5);
+  border-radius: 20rpx;
+}
+.container .image-box .image-box-img.data-v-b4490b80 {
+  width: 100%;
+  height: 100%;
+}
+.container .catalog-list.data-v-b4490b80 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+}
+.container .catalog-list .catalog-title.data-v-b4490b80 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 5px;
+  margin-top: 15px;
+  padding: 5px;
+  font-size: 35rpx;
+  line-height: 40rpx;
+  color: #999;
+}
+.container .catalog-list .catalog-section.data-v-b4490b80 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin: 10px;
+}
+.container .catalog-list .catalog-section .catalog-section-subtitle.data-v-b4490b80 {
+  width: 80%;
+  padding-left: 15px;
+  font-size: 30rpx;
+  line-height: 30rpx;
+  color: #999;
+}
+.container .catalog-list .catalog-section .img.data-v-b4490b80 {
+  left: 5px;
+  width: 30rpx;
+  height: 30rpx;
+}
+.container .catalog-list .catalog-section .img1.data-v-b4490b80 {
+  margin-left: 10rpx;
+  width: 30rpx;
+  height: 30rpx;
+}
+.container .catalog-list image.data-v-b4490b80 {
+  width: 100%;
+  height: 100%;
+}
+

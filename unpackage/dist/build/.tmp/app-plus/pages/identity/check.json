@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "审核",
+  "scrollIndicator": "none",
+  "titleNView": {
+    "autoBackButton": "false"
+  },
+  "usingComponents": {
+    "tui-tips": "/components/tips"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="container"><view class="uni-list"><graphiclist vue-id="1" list="{{List}}" data-event-opts="{{[['^detail',[['courseDetail']]]]}}" bind:detail="__e" bind:__l="__l"></graphiclist></view><tui-loadmore vue-id="2" visible="{{loadding}}" bind:__l="__l"></tui-loadmore><tui-nomore vue-id="3" visible="{{!pullUpOn}}" bind:__l="__l"></tui-nomore></view>

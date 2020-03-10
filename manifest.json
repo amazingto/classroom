@@ -1,0 +1,121 @@
+{
+    "name" : "南平农校",
+    "appid" : "__UNI__84FD5A9",
+    "description" : "南平农校",
+    "versionName" : "1.0.0",
+    "versionCode" : "100",
+    "transformPx" : false,
+    /* 5+App特有相关 */
+    "app-plus" : {
+        "usingComponents" : true,
+        "splashscreen" : {
+            "alwaysShowBeforeRender" : true,
+            "waiting" : true,
+            "autoclose" : true,
+            "delay" : 0,
+            "popGesture" : "none"
+        },
+        /* 模块配置 */
+        "modules" : {
+            "VideoPlayer" : {}
+        },
+        /* 应用发布信息 */
+        "distribute" : {
+            /* android打包配置 */
+            "android" : {
+                "permissions" : [
+                    "<uses-permission android:name=\"android.permission.CHANGE_NETWORK_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_CONTACTS\"/>",
+                    "<uses-permission android:name=\"android.permission.VIBRATE\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_LOGS\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_WIFI_STATE\"/>",
+                    "<uses-feature android:name=\"android.hardware.camera.autofocus\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_CONTACTS\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.CAMERA\"/>",
+                    "<uses-permission android:name=\"android.permission.RECORD_AUDIO\"/>",
+                    "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\"/>",
+                    "<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_PHONE_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.CHANGE_WIFI_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.WAKE_LOCK\"/>",
+                    "<uses-permission android:name=\"android.permission.CALL_PHONE\"/>",
+                    "<uses-permission android:name=\"android.permission.FLASHLIGHT\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\"/>",
+                    "<uses-feature android:name=\"android.hardware.camera\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>"
+                ]
+            },
+            /* ios打包配置 */
+            "ios" : {},
+            /* SDK配置 */
+            "sdkConfigs" : {},
+            "splashscreen" : {
+                "android" : {
+                    "hdpi" : "static/qidong.9.png",
+                    "xhdpi" : "static/qidong.9.png",
+                    "xxhdpi" : "static/qidong.9.png"
+                },
+                "ios" : {
+                    "iphone" : {
+                        "portrait-896h@3x" : "static/qidong.9.png",
+                        "landscape-896h@3x" : "static/qidong.9.png",
+                        "portrait-896h@2x" : "static/qidong.9.png",
+                        "landscape-896h@2x" : "static/qidong.9.png",
+                        "iphonex" : "static/qidong.9.png",
+                        "iphonexl" : "static/qidong.9.png",
+                        "retina55" : "static/qidong.9.png",
+                        "retina55l" : "static/qidong.9.png",
+                        "retina47" : "static/qidong.9.png",
+                        "retina47l" : "static/qidong.9.png",
+                        "retina40" : "static/qidong.9.png",
+                        "retina40l" : "static/qidong.9.png",
+                        "retina35" : "static/qidong.9.png"
+                    }
+                }
+            },
+            "icons" : {
+                "android" : {
+                    "hdpi" : "static/logo2.png",
+                    "xhdpi" : "static/logo2.png",
+                    "xxhdpi" : "static/logo2.png",
+                    "xxxhdpi" : "static/logo2.png"
+                },
+                "ios" : {
+                    "appstore" : "static/logo2.png",
+                    "iphone" : {
+                        "app@2x" : "static/logo2.png",
+                        "app@3x" : "static/logo2.png",
+                        "spotlight@2x" : "static/logo2.png",
+                        "spotlight@3x" : "static/logo2.png",
+                        "settings@2x" : "static/logo2.png",
+                        "settings@3x" : "static/logo2.png",
+                        "notification@2x" : "static/logo2.png",
+                        "notification@3x" : "static/logo2.png"
+                    }
+                }
+            }
+        }
+    },
+    /* 快应用特有相关 */
+    "quickapp" : {},
+    /* 小程序特有相关 */
+    "mp-weixin" : {
+        "appid" : "",
+        "setting" : {
+            "urlCheck" : false
+        },
+        "usingComponents" : true
+    },
+    "mp-alipay" : {
+        "usingComponents" : true
+    },
+    "mp-baidu" : {
+        "usingComponents" : true
+    },
+    "mp-toutiao" : {
+        "usingComponents" : true
+    }
+}
